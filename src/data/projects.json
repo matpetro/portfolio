@@ -1,0 +1,59 @@
+[
+
+  {
+    "title": "Job Finder",
+    "imageSrc": "projects/job_finder.png",
+    "description": "A job finding mobile app that allows users to seamlessly search and apply for jobs.",
+    "skills": ["React Native", "Express", "Expo Go", "MongoDB"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/matpetro/React-Native-Job-Finder"
+  },
+  {
+    "title": "Travel Tracker",
+    "imageSrc": "projects/travel_app.png",
+    "description": "An interactive travel info app providing details about hotels, restaurants, and special attractions for any location.",
+    "skills": ["JavaScript",  "Material UI", "React", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://matpetro.github.io/travel-app/"
+  },
+  {
+    "title": "Live Chat App",
+    "imageSrc": "projects/chat_app.png",
+    "description": "A live chat application that uses sockets for seamless communication and instant message delivery.",
+    "skills": ["JavaScript",  "Material UI", "React", "Express"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/matpetro/livechat-app"
+  },
+  {
+    "title": "Soccer Trivia Game & API",
+    "imageSrc": "projects/skrtl.png",
+    "description": "A trivia game akin to wordle where the player must guess a current EPL player.",
+    "skills": ["React", "Express", "Node", "JavaScript", "CSS"],
+    "demo": "https://www.example.com",
+    "source": "https://matpetro.github.io/prem-wordle/"
+  },
+  {
+    "title": "AI Investment Advisor",
+    "imageSrc": "projects/inv_advisor.png",
+    "description": "An AI chatbot that automates investment analysis, enhancing efficiency for investment professionals.",
+    "skills": ["JavaScript", "Python", "Pytorch"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/matpetro/invAdvisorAI"
+  },
+  {
+    "title": "Study Buddy",
+    "imageSrc": "projects/study_buddy.png",
+    "description": "A productivity app for Android that helps users schedule tasks and minimize distractions by blocking other apps on their phones.",
+    "skills": ["Java", "Android Studio"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/matpetro/StudyBuddy"
+  },
+  {
+    "title": "Arbitrage Finder",
+    "imageSrc": "projects/arb_finder.png",
+    "description": "An application for finding the best betting odds for upcoming matchups across various sports leagues. The platform identifies any arbitrage oppurtunities.",
+    "skills": ["JavaScript", "React", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://matpetro.github.io/arbFinderWeb/"
+  }
+]
