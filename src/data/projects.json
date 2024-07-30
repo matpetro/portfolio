@@ -55,5 +55,13 @@
     "skills": ["JavaScript", "React", "Node"],
     "demo": "https://www.example.com",
     "source": "https://matpetro.github.io/arbFinderWeb/"
+  },
+  {
+    "title": "AI Character",
+    "imageSrc": "projects/ai_snoop.png",
+    "description": "An interactive application featuring an avatar of Snoop Dogg with realistic responses and voice.",
+    "skills": ["JavaScript", "React", "Node", "Google API"],
+    "demo": "https://www.example.com",
+    "source": "https://matpetro.github.io/ai-snoop/"
   }
 ]

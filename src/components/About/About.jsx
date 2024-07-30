@@ -48,7 +48,7 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Testing & Debugging</h3>
               <p>
-                I have experience developing a unit testing plan for a project and performing unit testing on developed features
+                I have experience developing unit testing plans for projects and performing unit testing on developed features
               </p>
             </div>
           </li>
