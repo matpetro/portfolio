@@ -12,6 +12,10 @@
     "imageSrc": "skills/javascript.png"
   },
   {
+    "title": "TypeScript",
+    "imageSrc": "skills/typescript.png"
+  },
+  {
     "title": "HTML",
     "imageSrc": "skills/html.png"
   },
@@ -40,6 +44,14 @@
     "imageSrc": "skills/oracle_db.png"
   },
   {
+    "title": "MySql",
+    "imageSrc": "skills/mysql.png"
+  },
+  {
+    "title": "Firebase",
+    "imageSrc": "skills/firebase.png"
+  },
+  {
     "title": "Git",
     "imageSrc": "skills/git.png"
   },
@@ -47,7 +59,6 @@
     "title": "MS Office",
     "imageSrc": "skills/microsoft_office.png"
   },
-
   {
     "title": "Jira",
     "imageSrc": "skills/jira.png"

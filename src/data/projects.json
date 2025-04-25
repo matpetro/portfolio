@@ -1,5 +1,12 @@
 [
-
+  {
+    "title": "OrbitWatch",
+    "imageSrc": "projects/orbit_watch.png",
+    "description": "A crowd source satellite image labeling platform that allows clients to create accurate datasets.",
+    "skills": ["React", "Express", "Node", "JavaScript"],
+    "demo": "https://www.example.com",
+    "source": "https://okkm.netlify.app/"
+  },
   {
     "title": "Job Finder",
     "imageSrc": "projects/job_finder.png",
@@ -24,14 +31,8 @@
     "demo": "https://www.example.com",
     "source": "https://github.com/matpetro/livechat-app"
   },
-  {
-    "title": "Soccer Trivia Game & API",
-    "imageSrc": "projects/skrtl.png",
-    "description": "A trivia game akin to wordle where the player must guess a current EPL player.",
-    "skills": ["React", "Express", "Node", "JavaScript", "CSS"],
-    "demo": "https://www.example.com",
-    "source": "https://matpetro.github.io/prem-wordle/"
-  },
+
+
   {
     "title": "AI Investment Advisor",
     "imageSrc": "projects/inv_advisor.png",
